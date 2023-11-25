@@ -12,7 +12,7 @@ The mount covers snapped onto the Sony alpha mirrorless cameras, just to change 
 
 Currently available models: α7R(theoretically compatible to α7), α7R IV(theoretically compatible to α7 III and α7S III)
 
-NOTE: I can not make the hood thinner cause most of the SLA 3d printers have minimum thickness of 0.8mm(or result in incomplete print surface).
+NOTE: These mount covers are small and thin, using SLA 3d printers is highly recommended.
 
 Use and test with caution!
 
@@ -20,7 +20,7 @@ I can not guarantee the full compatibility of printed models, the use of all mod
 
 ## Known Issues
 
-- The α7R cover might be hard to take off 
+- The cover on α7R(α7) might be hard to take off.
 
 - The stiffener part near the lens release button may have conflict with some lens or converters, Techart LM-EA9 converter is currently what I found, but generally works perfectly with original Sony E mount lens
 
